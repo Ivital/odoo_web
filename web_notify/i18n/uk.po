@@ -36,3 +36,15 @@ msgstr "Успішно"
 #: code:addons/web_notify/models/res_users.py:0
 msgid "Warning"
 msgstr "Попередження"
+
+#. module: web_notify
+#. odoo-python
+#: code:addons/web_notify/models/res_users.py:0
+msgid "Danger"
+msgstr "Небезпека"
+
+#. module: web_notify
+#. odoo-python
+#: code:addons/web_notify/models/res_users.py:0
+msgid "Information"
+msgstr "Інформація"

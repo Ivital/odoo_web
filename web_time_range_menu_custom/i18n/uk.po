@@ -24,3 +24,21 @@ msgstr "День"
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 msgid "Year"
 msgstr "Рік"
+
+#. module: web_time_range_menu_custom
+#. odoo-javascript
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+msgid "Add"
+msgstr "Додати"
+
+#. module: web_time_range_menu_custom
+#. odoo-javascript
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+msgid "Month"
+msgstr "Місяць"
+
+#. module: web_time_range_menu_custom
+#. odoo-javascript
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+msgid "Week"
+msgstr "Тиждень"

@@ -101,3 +101,22 @@ msgstr "Послідовність"
 #: model:ir.ui.menu,name:web_quick_start_screen.menu_start_screen
 msgid "Start"
 msgstr "Почати"
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_uid
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_date
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: web_quick_start_screen
+#: model:ir.actions.server,name:web_quick_start_screen.start_screen_action
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_res_users__quick_start_screen_id
+#: model:res.groups,name:web_quick_start_screen.group_quick_start_screen
+msgid "Quick Start Screen"
+msgstr "Екран швидкого запуску"

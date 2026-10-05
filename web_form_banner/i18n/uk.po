@@ -85,3 +85,71 @@ msgstr "Подання"
 #: model:ir.model.fields.selection,name:web_form_banner.selection__web_form_banner_rule__severity__warning
 msgid "Warning"
 msgstr "Попередження"
+
+#. module: web_form_banner
+#: model:ir.model.fields.selection,name:web_form_banner.selection__web_form_banner_rule__position__after
+msgid "After target"
+msgstr "Після цілі"
+
+#. module: web_form_banner
+#: model:ir.model.fields.selection,name:web_form_banner.selection__web_form_banner_rule__position__before
+msgid "Before target"
+msgstr "Перед ціллю"
+
+#. module: web_form_banner
+#: model:ir.model.fields.selection,name:web_form_banner.selection__web_form_banner_rule__severity__danger
+msgid "Danger"
+msgstr "Небезпека"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__severity
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_search
+msgid "Default Severity"
+msgstr "Типова серйозність"
+
+#. module: web_form_banner
+#: model:ir.model,name:web_form_banner.model_web_form_banner_rule
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Form Banner Rule"
+msgstr "Правило банера форми"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_search
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Help"
+msgstr "Довідка"
+
+#. module: web_form_banner
+#: model:ir.model.fields.selection,name:web_form_banner.selection__web_form_banner_rule__severity__info
+msgid "Info"
+msgstr "Інформація"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__message_value_code
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Message Value Code"
+msgstr "Код значення повідомлення"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__target_xpath
+msgid "Target XPath"
+msgstr "Цільовий XPath"
+
+#. module: web_form_banner
+#: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__trigger_field_ids
+msgid "Trigger Fields"
+msgstr "Поля запуску"

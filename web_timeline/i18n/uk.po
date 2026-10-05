@@ -30,3 +30,41 @@ msgstr "Попередження"
 #: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.xml:0
 msgid "Year"
 msgstr "Рік"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_controller.esm.js:0
+msgid "Confirm"
+msgstr "Підтвердити"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_controller.esm.js:0
+msgid "Discard"
+msgstr "Відкинути"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.xml:0
+msgid "Month"
+msgstr "Місяць"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_view.esm.js:0
+#: model:ir.model.fields.selection,name:web_timeline.selection__ir_actions_act_window_view__view_mode__timeline
+#: model:ir.model.fields.selection,name:web_timeline.selection__ir_ui_view__type__timeline
+msgid "Timeline"
+msgstr "Шкала часу"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.xml:0
+msgid "Today"
+msgstr "Сьогодні"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.xml:0
+msgid "Week"
+msgstr "Тиждень"

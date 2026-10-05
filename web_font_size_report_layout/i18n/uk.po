@@ -17,3 +17,33 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_font_size_report_layout.field_base_document_layout__report_font_size
 msgid "Font size"
 msgstr "Розмір шрифту"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__10
+msgid "10 pt"
+msgstr "10 пт"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__11
+msgid "11 pt"
+msgstr "11 пт"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__12
+msgid "12 pt"
+msgstr "12 пт"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__13
+msgid "13 pt"
+msgstr "13 пт"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__14
+msgid "14 pt"
+msgstr "14 пт"
+
+#. module: web_font_size_report_layout
+#: model:ir.model.fields.selection,name:web_font_size_report_layout.selection__res_company__report_font_size__9
+msgid "9 pt"
+msgstr "9 пт"

@@ -28,3 +28,8 @@ msgstr "Іконка"
 #: model:ir.model.fields,field_description:web_pwa_customize.field_res_config_settings__pwa_theme_color
 msgid "Theme Color"
 msgstr "Колір теми"
+
+#. module: web_pwa_customize
+#: model:ir.model.fields,field_description:web_pwa_customize.field_res_config_settings__pwa_background_color
+msgid "Background Color"
+msgstr "Колір тла"

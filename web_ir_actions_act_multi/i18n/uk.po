@@ -47,3 +47,33 @@ msgstr "Відображувана назва"
 #: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__xml_id
 msgid "External ID"
 msgstr "Зовнішній ID"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__help
+msgid "Action Description"
+msgstr "Опис дії"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__binding_model_id
+msgid "Binding Model"
+msgstr "Модель прив'язки"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__binding_view_types
+msgid "Binding View Types"
+msgstr "Типи представлень прив'язки"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__path
+msgid "Path to show in the URL"
+msgstr "Шлях для показу в URL"
