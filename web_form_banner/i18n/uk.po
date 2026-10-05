@@ -334,3 +334,13 @@ msgstr "Де вставити заповнювач відносно першог
 #: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__target_xpath
 msgid "XPath of the node to insert the banner."
 msgstr "XPath вузла для вставлення банера."
+
+#. module: web_form_banner
+#. odoo-python
+#: code:addons/web_form_banner/models/web_form_banner_rule.py:0
+msgid ""
+"Invalid XPath:\n"
+"%s"
+msgstr ""
+"Недійсний XPath:\n"
+"%s"

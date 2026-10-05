@@ -18,3 +18,15 @@ msgstr ""
 #: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js:0
 msgid "Duplicate"
 msgstr "Дублювати"
+
+#. module: web_copy_confirm
+#. odoo-javascript
+#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js:0
+msgid "Are you sure that you would like to copy this record?"
+msgstr "Ви впевнені, що хочете скопіювати цей запис?"
+
+#. module: web_copy_confirm
+#. odoo-javascript
+#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js:0
+msgid "Are you sure that you would like to duplicate the selected records?"
+msgstr "Ви впевнені, що хочете дублювати вибрані записи?"

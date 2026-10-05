@@ -18,3 +18,15 @@ msgstr ""
 #: code:addons/web_portal_properties/static/src/components/portal_properties/portal_properties.esm.js:0
 msgid "Properties"
 msgstr "Властивості"
+
+#. module: web_portal_properties
+#. odoo-javascript
+#: code:addons/web_portal_properties/static/src/components/portal_properties/portal_properties_definition.xml:0
+msgid "Display in Portal"
+msgstr "Показувати на порталі"
+
+#. module: web_portal_properties
+#. odoo-javascript
+#: code:addons/web_portal_properties/static/src/components/portal_properties/portal_properties_definition.xml:0
+msgid "Whether or not this Property Field is displayed in the Portal views"
+msgstr "Чи відображається це поле властивості у поданнях порталу"

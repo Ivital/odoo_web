@@ -103,3 +103,21 @@ msgstr "використовує стандартний алгоритм"
 #: model:ir.model.fields,help:web_responsive.field_res_users__is_redirect_home
 msgid "Redirect to dashboard after signing in"
 msgstr "Перенаправляти на панель після входу"
+
+#. module: web_responsive
+#. odoo-javascript
+#: code:addons/web_responsive/static/src/components/menu_canonical_searchbar/searchbar.xml:0
+msgid "App Icon"
+msgstr "Піктограма застосунку"
+
+#. module: web_responsive
+#. odoo-javascript
+#: code:addons/web_responsive/static/src/components/command_palette/main.xml:0
+msgid "Exit"
+msgstr "Вийти"
+
+#. module: web_responsive
+#. odoo-javascript
+#: code:addons/web_responsive/static/src/components/chatter/chatter.xml:0
+msgid "Log note"
+msgstr "Записати примітку"

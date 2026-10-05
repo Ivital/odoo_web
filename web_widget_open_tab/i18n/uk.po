@@ -22,3 +22,15 @@ msgstr "Додати поле відкритої вкладки"
 #: model:ir.model.fields,help:web_widget_open_tab.field_ir_model__add_open_tab_field
 msgid "Adds open-tab field in list views."
 msgstr "Додає поле відкриття у вкладці до представлень списку."
+
+#. module: web_widget_open_tab
+#. odoo-javascript
+#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js:0
+msgid "Click to open on new tab"
+msgstr "Натисніть, щоб відкрити в новій вкладці"
+
+#. module: web_widget_open_tab
+#. odoo-javascript
+#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js:0
+msgid "Open Tab"
+msgstr "Відкрити вкладку"

@@ -24,3 +24,9 @@ msgstr "Мінус"
 #: code:addons/web_widget_numeric_step/static/src/numeric_step.xml:0
 msgid "Plus"
 msgstr "Плюс"
+
+#. module: web_widget_numeric_step
+#. odoo-javascript
+#: code:addons/web_widget_numeric_step/static/src/numeric_step.esm.js:0
+msgid "Numeric Step"
+msgstr "Числовий крок"

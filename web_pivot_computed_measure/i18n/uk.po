@@ -54,3 +54,79 @@ msgstr "Додати"
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 msgid "Custom"
 msgstr "Користувацький"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Can be empty"
+msgstr "Може бути порожнім"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Computed Measure"
+msgstr "Обчислюваний показник"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Div (m1 / m2)"
+msgstr "Діл. (m1 / m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Float"
+msgstr "Число з плаваючою комою"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Integer"
+msgstr "Ціле число"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Measure 1"
+msgstr "Показник 1"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Measure 2"
+msgstr "Показник 2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Mult (m1 * m2)"
+msgstr "Множ. (m1 * m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Perc (m1 * 100 / m2)"
+msgstr "Відс. (m1 * 100 / m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Sub (m1 - m2)"
+msgstr "Відн. (m1 - m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+msgid "Sum (m1 + m2)"
+msgstr "Сума (m1 + m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/pivot/pivot_model.esm.js:0
+msgid ""
+"This measure is currently used by a 'computed measure'. Please, disable the "
+"computed measure first."
+msgstr ""
+"Ця міра зараз використовується «обчислюваною мірою». Спочатку вимкніть "
+"обчислювану міру."

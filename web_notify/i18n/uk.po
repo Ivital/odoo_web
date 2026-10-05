@@ -73,3 +73,9 @@ msgstr "Назва каналу успішних сповіщень"
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
 msgid "Notify Warning Channel Name"
 msgstr "Назва каналу попереджень"
+
+#. module: web_notify
+#. odoo-python
+#: code:addons/web_notify/models/res_users.py:0
+msgid "Sending a notification to another user is forbidden."
+msgstr "Надсилання сповіщення іншому користувачеві заборонено."

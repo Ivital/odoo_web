@@ -18,3 +18,15 @@ msgstr ""
 #: code:addons/web_widget_popover/static/src/popover.esm.js:0
 msgid "Icon"
 msgstr "Іконка"
+
+#. module: web_widget_popover
+#. odoo-javascript
+#: code:addons/web_widget_popover/static/src/popover.esm.js:0
+msgid "FontAwesome icon to display"
+msgstr "Піктограма FontAwesome для відображення"
+
+#. module: web_widget_popover
+#. odoo-javascript
+#: code:addons/web_widget_popover/static/src/popover.esm.js:0
+msgid "Icon Popover"
+msgstr "Спливне вікно піктограми"

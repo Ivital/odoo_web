@@ -226,3 +226,9 @@ msgstr "Модель, до якої відноситься це поле"
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__model_name
 msgid "The technical name of the model this field belongs to"
 msgstr "Технічна назва моделі, до якої відноситься це поле"
+
+#. module: web_m2x_options_manager
+#. odoo-python
+#: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
+msgid "Field %(field)s cannot have M2X options"
+msgstr "Поле %(field)s не може мати параметри M2X"

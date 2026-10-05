@@ -68,3 +68,27 @@ msgstr "Сьогодні"
 #: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.xml:0
 msgid "Week"
 msgstr "Тиждень"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_renderer.esm.js:0
+msgid "<b>UNASSIGNED</b>"
+msgstr "<b>НЕ ПРИЗНАЧЕНО</b>"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_controller.esm.js:0
+msgid "Are you sure you want to delete this record?"
+msgstr "Ви впевнені, що хочете видалити цей запис?"
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_arch_parser.esm.js:0
+msgid "Timeline view has not defined 'date_start' attribute."
+msgstr "Для подання часової шкали не визначено атрибут 'date_start'."
+
+#. module: web_timeline
+#. odoo-javascript
+#: code:addons/web_timeline/static/src/views/timeline/timeline_arch_parser.esm.js:0
+msgid "Timeline view has not defined 'default_group_by' attribute."
+msgstr "Для подання часової шкали не визначено атрибут 'default_group_by'."

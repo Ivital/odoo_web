@@ -36,3 +36,39 @@ msgstr "Завершити"
 #: code:addons/web_help/static/src/user_trip.esm.js:0
 msgid "Next"
 msgstr "Далі"
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/change_password_trip.esm.js:0
+msgid "Change the password here, make sure it's secure."
+msgstr "Змініть пароль тут і переконайтеся, що він надійний."
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/change_password_trip.esm.js:0
+msgid "Click here to confirm it."
+msgstr "Натисніть тут, щоб підтвердити."
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/trip.esm.js:0
+msgid "Got it"
+msgstr "Зрозуміло"
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/user_trip.esm.js:0
+msgid "To create a new user click here."
+msgstr "Щоб створити нового користувача, натисніть тут."
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/user_trip.esm.js:0
+msgid "Use the searchbar to find specific users."
+msgstr "Використовуйте рядок пошуку, щоб знайти конкретних користувачів."
+
+#. module: web_help
+#. odoo-javascript
+#: code:addons/web_help/static/src/user_trip.esm.js:0
+msgid "You can switch to different views here."
+msgstr "Тут можна перемикатися між різними поданнями."
