@@ -68,3 +68,33 @@ msgstr "Тип пошуку"
 #: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
 msgid "Theme"
 msgstr "Тема"
+
+#. module: web_responsive
+#: model:ir.actions.act_window,name:web_responsive.res_users_view_form_apps_menu_preferences_action
+msgid "Apps Menu Preferences"
+msgstr "Налаштування меню застосунків"
+
+#. module: web_responsive
+#: model:ir.model.fields,field_description:web_responsive.field_res_users__is_redirect_home
+msgid "Redirect to Home"
+msgstr "Перенаправити на головну"
+
+#. module: web_responsive
+#: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
+msgid "Search Type Help"
+msgstr "Довідка про тип пошуку"
+
+#. module: web_responsive
+#: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
+msgid "a new search algorithm is used"
+msgstr "використовується новий алгоритм пошуку"
+
+#. module: web_responsive
+#: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
+msgid "the standard odoo search tool"
+msgstr "стандартний інструмент пошуку Odoo"
+
+#. module: web_responsive
+#: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
+msgid "uses a standard algorithm"
+msgstr "використовує стандартний алгоритм"

@@ -48,3 +48,28 @@ msgstr "Небезпека"
 #: code:addons/web_notify/models/res_users.py:0
 msgid "Information"
 msgstr "Інформація"
+
+#. module: web_notify
+#: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
+msgid "Notify Danger Channel Name"
+msgstr "Назва каналу небезпечних сповіщень"
+
+#. module: web_notify
+#: model:ir.model.fields,field_description:web_notify.field_res_users__notify_default_channel_name
+msgid "Notify Default Channel Name"
+msgstr "Назва каналу сповіщень за замовчуванням"
+
+#. module: web_notify
+#: model:ir.model.fields,field_description:web_notify.field_res_users__notify_info_channel_name
+msgid "Notify Info Channel Name"
+msgstr "Назва інформаційного каналу сповіщень"
+
+#. module: web_notify
+#: model:ir.model.fields,field_description:web_notify.field_res_users__notify_success_channel_name
+msgid "Notify Success Channel Name"
+msgstr "Назва каналу успішних сповіщень"
+
+#. module: web_notify
+#: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
+msgid "Notify Warning Channel Name"
+msgstr "Назва каналу попереджень"

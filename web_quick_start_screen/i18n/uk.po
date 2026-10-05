@@ -120,3 +120,13 @@ msgstr "Останнє оновлення"
 #: model:res.groups,name:web_quick_start_screen.group_quick_start_screen
 msgid "Quick Start Screen"
 msgstr "Екран швидкого запуску"
+
+#. module: web_quick_start_screen
+#: model_terms:ir.ui.view,arch_db:web_quick_start_screen.quick_start_screen_list_view
+msgid "Go to the start screen"
+msgstr "Перейти на початковий екран"
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__image
+msgid "Start screen icon"
+msgstr "Іконка початкового екрана"

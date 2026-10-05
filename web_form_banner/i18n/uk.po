@@ -153,3 +153,131 @@ msgstr "Цільовий XPath"
 #: model:ir.model.fields,field_description:web_form_banner.field_web_form_banner_rule__trigger_field_ids
 msgid "Trigger Fields"
 msgstr "Поля запуску"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>context_today(ts=None)</code>: User-timezone “today” (date) for "
+"reliable date comparisons."
+msgstr ""
+"<code>context_today(ts=None)</code>: «сьогодні» (дата) у часовому поясі "
+"користувача для надійного порівняння дат."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>ctx</code>: Copy of the current context "
+"(<code>dict(env.context)</code>)."
+msgstr ""
+"<code>ctx</code>: копія поточного контексту "
+"(<code>dict(env.context)</code>)."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>draft</code>: The persisted field values of the ORM record (before applying the current\n"
+"                                    form's unsaved changes) + the current unsaved changes on trigger fields.\n"
+"                                    Should be used instead of <code>record</code> when your rule is triggered dynamically by an\n"
+"                                    update to a trigger field. It doesn't include any values from complex fields\n"
+"                                    (one2many/reference, etc)."
+msgstr ""
+"<code>draft</code>: збережені значення полів запису ORM (до застосування поточних\n"
+"                                    незбережених змін форми) + поточні незбережені зміни полів-тригерів.\n"
+"                                    Слід використовувати замість <code>record</code>, коли правило динамічно запускається\n"
+"                                    оновленням поля-тригера. Не містить значень складних полів\n"
+"                                    (one2many/reference тощо)."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "<code>env</code>: Odoo environment for ORM access."
+msgstr "<code>env</code>: середовище Odoo для доступу ORM."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>float_compare</code>, <code>float_is_zero</code>, "
+"<code>float_round</code>: Odoo float utils for precision-safe "
+"comparisons/rounding."
+msgstr ""
+"<code>float_compare</code>, <code>float_is_zero</code>, "
+"<code>float_round</code>: утиліти Odoo для float із безпечним урахуванням "
+"точності під час порівняння/округлення."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>model</code>: Shortcut to the current model "
+"(<code>env[record._name]</code>)."
+msgstr ""
+"<code>model</code>: скорочення для поточної моделі "
+"(<code>env[record._name]</code>)."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "<code>record</code>: Current record (the form's record)."
+msgstr "<code>record</code>: поточний запис (запис форми)."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>record_id</code>: Integer id of the record being edited, or <code>False</code> if the form\n"
+"                                    is creating a new record."
+msgstr ""
+"<code>record_id</code>: цілочисельний id редагованого запису або <code>False</code>, якщо форма\n"
+"                                    створює новий запис."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "<code>time, datetime</code>: Standard Python time/datetime modules."
+msgstr "<code>time, datetime</code>: стандартні модулі Python time/datetime."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "<code>timezone</code>: <code>pytz.timezone</code> for TZ handling."
+msgstr ""
+"<code>timezone</code>: <code>pytz.timezone</code> для роботи з часовими "
+"поясами."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid ""
+"<code>url_for(obj)</code>: Helper that returns a backend form URL for "
+"<code>obj</code>."
+msgstr ""
+"<code>url_for(obj)</code>: допоміжна функція, що повертає URL форми бекенду "
+"для <code>obj</code>."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "<code>user</code>: Current user (<code>env.user</code>)."
+msgstr "<code>user</code>: поточний користувач (<code>env.user</code>)."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Available evaluation context variables are as follows:"
+msgstr "Доступні змінні контексту оцінювання:"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Example of Message Value Code (model: <code>sale.order</code>)"
+msgstr "Приклад коду значення повідомлення (модель: <code>sale.order</code>)"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Help for Message Valude Code"
+msgstr "Довідка для коду значення повідомлення"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "Recompute on change (new forms)"
+msgstr "Перераховувати при зміні (нові форми)"
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "This is a ${severity} message."
+msgstr "Це повідомлення рівня ${severity}."
+
+#. module: web_form_banner
+#: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
+msgid "e.g. Warning on dangerous customers"
+msgstr "наприклад, попередження для ризикових клієнтів"

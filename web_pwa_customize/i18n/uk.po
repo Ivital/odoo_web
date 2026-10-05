@@ -33,3 +33,18 @@ msgstr "Колір теми"
 #: model:ir.model.fields,field_description:web_pwa_customize.field_res_config_settings__pwa_background_color
 msgid "Background Color"
 msgstr "Колір тла"
+
+#. module: web_pwa_customize
+#: model_terms:ir.ui.view,arch_db:web_pwa_customize.res_config_settings_view_form
+msgid "<span class=\"d-block w-75 py-2\">Background Color</span>"
+msgstr "<span class=\"d-block w-75 py-2\">Колір тла</span>"
+
+#. module: web_pwa_customize
+#: model_terms:ir.ui.view,arch_db:web_pwa_customize.res_config_settings_view_form
+msgid "<span class=\"d-block w-75 py-2\">Theme Color</span>"
+msgstr "<span class=\"d-block w-75 py-2\">Колір теми</span>"
+
+#. module: web_pwa_customize
+#: model:ir.model.fields,field_description:web_pwa_customize.field_res_config_settings__pwa_short_name
+msgid "Web App Short Name"
+msgstr "Коротка назва вебзастосунку"

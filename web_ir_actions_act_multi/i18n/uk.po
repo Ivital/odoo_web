@@ -77,3 +77,21 @@ msgstr "Останнє оновлення"
 #: model:ir.model.fields,field_description:web_ir_actions_act_multi.field_ir_actions_act_multi__path
 msgid "Path to show in the URL"
 msgstr "Шлях для показу в URL"
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,help:web_ir_actions_act_multi.field_ir_actions_act_multi__help
+msgid ""
+"Optional help text for the users with a description of the target view, such"
+" as its usage and purpose."
+msgstr ""
+"Необов'язковий текст довідки для користувачів з описом цільового перегляду, "
+"наприклад його використання та призначення."
+
+#. module: web_ir_actions_act_multi
+#: model:ir.model.fields,help:web_ir_actions_act_multi.field_ir_actions_act_multi__binding_model_id
+msgid ""
+"Setting a value makes this action available in the sidebar for the given "
+"model."
+msgstr ""
+"Встановлення значення робить цю дію доступною на бічній панелі для даної "
+"моделі."

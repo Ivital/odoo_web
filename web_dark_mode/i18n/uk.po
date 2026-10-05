@@ -19,3 +19,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode
 msgid "Dark Mode"
 msgstr "Темний режим"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode_device_dependent
+msgid "Device Dependent Dark Mode"
+msgstr "Темний режим залежно від пристрою"

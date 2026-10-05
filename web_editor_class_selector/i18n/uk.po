@@ -73,3 +73,8 @@ msgstr "Назва..."
 #: model_terms:ir.ui.view,arch_db:web_editor_class_selector.view_web_editor_class_form
 msgid "Some CSS class"
 msgstr "Деякий клас CSS"
+
+#. module: web_editor_class_selector
+#: model_terms:ir.actions.act_window,help:web_editor_class_selector.action_web_editor_class
+msgid "Click here to add new Web Editor Class."
+msgstr "Натисніть тут, щоб додати новий клас вебредактора."
