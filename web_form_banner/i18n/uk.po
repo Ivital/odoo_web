@@ -281,3 +281,56 @@ msgstr "Це повідомлення рівня ${severity}."
 #: model_terms:ir.ui.view,arch_db:web_form_banner.view_web_form_banner_rule_form
 msgid "e.g. Warning on dangerous customers"
 msgstr "наприклад, попередження для ризикових клієнтів"
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__severity
+msgid "Default severity level, can be overridden per-record."
+msgstr "Типовий рівень серйозності, можна перевизначити для запису."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__view_ids
+msgid "Form view where the banner should be injected."
+msgstr "Представлення форми, у яке потрібно вставити банер."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__message_is_html
+msgid ""
+"If checked, 'message' is treated as raw HTML (no escaping). If not checked, "
+"the rendered text is escaped and newlines become <br/>."
+msgstr ""
+"Якщо позначено, 'message' обробляється як необроблений HTML (без "
+"екранування). Якщо не позначено, відтворений текст екранується, а переноси "
+"рядків перетворюються на <br/>."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__trigger_field_ids
+msgid "If set, the banner recomputes live when any of these fields change."
+msgstr ""
+"Якщо встановлено, банер перераховується наживо при зміні будь-якого з цих "
+"полів."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__message_value_code
+msgid ""
+"Python expression evaluated server-side. Must return a dict.\n"
+"Keys: visible(bool, default True), severity(str), values(dict for ${...} in \n"
+"message), and/or html(str) to override template rendering."
+msgstr ""
+"Вираз Python, що обчислюється на сервері. Має повертати dict.\n"
+"Ключі: visible(bool, типово True), severity(str), values(dict для ${...} у \n"
+"повідомленні) та/або html(str), щоб перевизначити відтворення шаблону."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__message
+msgid "Template with ${placeholders}. If not HTML, it will be escaped."
+msgstr "Шаблон із ${placeholders}. Якщо це не HTML, вміст буде екрановано."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__position
+msgid "Where to insert the placeholder relative to the first matched node."
+msgstr "Де вставити заповнювач відносно першого знайденого вузла."
+
+#. module: web_form_banner
+#: model:ir.model.fields,help:web_form_banner.field_web_form_banner_rule__target_xpath
+msgid "XPath of the node to insert the banner."
+msgstr "XPath вузла для вставлення банера."

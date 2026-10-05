@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_widget_open_tab.field_ir_model__add_open_tab_field
 msgid "Add Open Tab Field"
 msgstr "Додати поле відкритої вкладки"
+
+#. module: web_widget_open_tab
+#: model:ir.model.fields,help:web_widget_open_tab.field_ir_model__add_open_tab_field
+msgid "Adds open-tab field in list views."
+msgstr "Додає поле відкриття у вкладці до представлень списку."

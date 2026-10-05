@@ -98,3 +98,8 @@ msgstr "стандартний інструмент пошуку Odoo"
 #: model_terms:ir.ui.view,arch_db:web_responsive.res_users_view_form_apps_menu_preferences
 msgid "uses a standard algorithm"
 msgstr "використовує стандартний алгоритм"
+
+#. module: web_responsive
+#: model:ir.model.fields,help:web_responsive.field_res_users__is_redirect_home
+msgid "Redirect to dashboard after signing in"
+msgstr "Перенаправляти на панель після входу"

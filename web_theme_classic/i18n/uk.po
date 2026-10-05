@@ -22,3 +22,14 @@ msgstr "Постійна класична тема"
 #: model:ir.model.fields,field_description:web_theme_classic.field_res_users_settings__persistent_classic_theme
 msgid "Persistent Classic Theme"
 msgstr "Постійна класична тема"
+
+#. module: web_theme_classic
+#: model:ir.model.fields,help:web_theme_classic.field_res_users__persistent_classic_theme
+msgid ""
+"This enables Classic Theme on this user's account across all devices. \n"
+" Disabling it will will alow you to to use the toggle in the user burger menu in the navbar to enable Classic Mode on a specific session/device \n"
+"The toggle is not visible while Persistent Classic Theme is enabled"
+msgstr ""
+"Увімкнення цього параметра активує класичну тему для облікового запису користувача на всіх пристроях.\n"
+" Після вимкнення можна використовувати перемикач у меню користувача на панелі навігації, щоб увімкнути класичний режим лише для конкретного сеансу/пристрою.\n"
+"Перемикач не відображається, коли ввімкнено постійну класичну тему."

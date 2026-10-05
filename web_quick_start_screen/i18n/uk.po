@@ -130,3 +130,45 @@ msgstr "Перейти на початковий екран"
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__image
 msgid "Start screen icon"
 msgstr "Іконка початкового екрана"
+
+#. module: web_quick_start_screen
+#: model:ir.model,name:web_quick_start_screen.model_quick_start_screen_action
+msgid "Actions to be launched from a quick start screen"
+msgstr "Дії для запуску з екрана швидкого старту"
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__context
+msgid ""
+"Add extra context if needed. You can use `ref('<xml_id>')` and it will "
+"beevaluated. You can also use `datetime` and `context_today` in the same "
+"way`ir.filters` do."
+msgstr ""
+"За потреби додайте додатковий контекст. Можна використовувати "
+"`ref('<xml_id>')`, який буде обчислено. Також можна використовувати "
+"`datetime` і `context_today` так само, як це робить `ir.filters`."
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__domain
+msgid ""
+"Add extra domain if needed. You can use `ref('<xml_id>')` and it will "
+"beevaluated. You can also use `datetime` and `context_today` in the same "
+"way`ir.filters` do."
+msgstr ""
+"За потреби додайте додатковий домен. Можна використовувати "
+"`ref('<xml_id>')`, який буде обчислено. Також можна використовувати "
+"`datetime` і `context_today` так само, як це робить `ir.filters`."
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__color
+msgid "Choose the icon color"
+msgstr "Виберіть колір піктограми"
+
+#. module: web_quick_start_screen
+#: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__icon_name
+msgid "Just set the Font Awesome icon name. e.g.: fa-truck"
+msgstr "Просто вкажіть назву піктограми Font Awesome, напр.: fa-truck"
+
+#. module: web_quick_start_screen
+#: model:ir.model,name:web_quick_start_screen.model_quick_start_screen
+msgid "Quick action selection screen"
+msgstr "Екран вибору швидкої дії"

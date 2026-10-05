@@ -78,3 +78,26 @@ msgstr "Деякий клас CSS"
 #: model_terms:ir.actions.act_window,help:web_editor_class_selector.action_web_editor_class
 msgid "Click here to add new Web Editor Class."
 msgstr "Натисніть тут, щоб додати новий клас вебредактора."
+
+#. module: web_editor_class_selector
+#: model:ir.model.constraint,message:web_editor_class_selector.constraint_web_editor_class_class_name_uniq
+msgid "Class name must be unique"
+msgstr "Назва класу має бути унікальною"
+
+#. module: web_editor_class_selector
+#. odoo-javascript
+#: code:addons/web_editor_class_selector/static/src/js/css_selector/css_selector_plugin.esm.js:0
+msgid "Custom CSS"
+msgstr "Власний CSS"
+
+#. module: web_editor_class_selector
+#: model:ir.model.fields,help:web_editor_class_selector.field_web_editor_class__class_name
+msgid ""
+"The class name to be added to the tag. It must be created in the CSS file."
+msgstr ""
+"Назва класу, який додається до тегу. Його потрібно створити у CSS-файлі."
+
+#. module: web_editor_class_selector
+#: model:ir.model,name:web_editor_class_selector.model_web_editor_class
+msgid "Web editor class selector"
+msgstr "Селектор класу вебредактора"

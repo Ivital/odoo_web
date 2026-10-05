@@ -17,3 +17,11 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_favicon.field_res_company__favicon
 msgid "Company Favicon"
 msgstr "Favicon компанії"
+
+#. module: web_favicon
+#: model:ir.model.fields,help:web_favicon.field_res_company__favicon
+msgid ""
+"This field holds the image used to display favicon for a given company."
+msgstr ""
+"Це поле містить зображення, що використовується як favicon для заданої "
+"компанії."
