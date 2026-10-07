@@ -219,3 +219,33 @@ body:not(.o_statusbar_buttons) {
         }
     }
 }
+
+// Keep dense form control panels usable on medium desktop widths.
+// Smart/stat buttons move to a second row before breadcrumbs and
+// CogMenu can be collapsed by the single-row desktop layout.
+@media (min-width: 992px) and (max-width: 1799.98px) {
+    .o_action_manager:has(.o_form_view) {
+        .o_control_panel_main {
+            flex-wrap: wrap !important;
+        }
+
+        .o_control_panel_breadcrumbs {
+            flex: 1 1 auto !important;
+            min-width: 0;
+        }
+
+        .o_control_panel_navigation {
+            order: 2 !important;
+            flex: 0 1 auto !important;
+            width: auto !important;
+            margin-inline-start: auto;
+        }
+
+        .o_control_panel_actions:not(:empty) {
+            order: 3 !important;
+            flex: 0 0 100%;
+            width: 100% !important;
+            justify-content: flex-start !important;
+        }
+    }
+}
